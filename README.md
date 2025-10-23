@@ -1,7 +1,7 @@
 # challangemmemichu
 Mission : on doit depanner le PC de Madame Michu
 
-# 1) Reparer le demarrage de Windows : 
+# 1) Part 1 :Reparer le demarrage de Windows : 
 On constate un probleme au demarrage "bootmgr" , je prepare mon iso et je le met dans mon Lecteur Optique: 
 
 <img width="500" height="300" alt="Capture d'écran 2025-10-23 193935" src="https://github.com/user-attachments/assets/3f55f750-48ba-422e-8a6a-c4c10ab92267" />
@@ -38,6 +38,22 @@ facilement reglé avec l outils de redemarge windows
 <img width="500" height="300" alt="MM 11" src="https://github.com/user-attachments/assets/55845eae-c4dd-4c84-9999-61b486a5af9f" />
 
 L'ordinateur de Madame Michu à l air de fonctionner ... sauf que 
+
+# Part 2: Restaurer les performances normales de la machine, verifier l état des disques , retrouver des images perdues :
+
+*Quelque chose d'étrange se lance au demarrage 
+*Madame Michu me lance un SOS via une note laissée dans les fichiers 
+
+j ai du retrouver l emplacement du fichier qui se lancait au demarrage pour l'effacer de partout où je peux le fichiers s'apellait  " ping "
+ça va mieux : 
+
+<img width="500" height="300" alt="Pocesseur " src="https://github.com/user-attachments/assets/d659a8db-9601-45ce-9f6b-e835e4d61504" />
+
+
+
+
+
+
 
 
 
