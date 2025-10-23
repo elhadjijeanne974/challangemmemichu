@@ -42,12 +42,29 @@ L'ordinateur de Madame Michu à l air de fonctionner ... sauf que
 # Part 2: Restaurer les performances normales de la machine, verifier l état des disques , retrouver des images perdues :
 
 *Quelque chose d'étrange se lance au demarrage 
+
 *Madame Michu me lance un SOS via une note laissée dans les fichiers 
 
 j ai du retrouver l emplacement du fichier qui se lancait au demarrage pour l'effacer de partout où je peux le fichiers s'apellait  " ping "
+
 ça va mieux : 
 
 <img width="500" height="300" alt="Pocesseur " src="https://github.com/user-attachments/assets/d659a8db-9601-45ce-9f6b-e835e4d61504" />
+
+Je verifie l etat des disques dur via l outils de gestion des disque dur : 
+
+
+<img width="500" height="300" alt="disque dur gestion " src="https://github.com/user-attachments/assets/63f77324-3e3f-4003-823f-5f33c882baff" />
+
+il y en avait un qui n etait pas activé , je l active 
+
+je profite pour retrouver les photos des yorkshire via le fichier "YORK":
+
+
+<img width="500" height="300" alt="Capture d'écran 2025-10-23 191423" src="https://github.com/user-attachments/assets/634fd758-8813-48e5-8f4d-0c9b58efea17" />
+
+
+
 
 
 
