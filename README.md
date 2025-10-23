@@ -1,5 +1,5 @@
 # challangemmemichu
-Mission : on doit depanner le PC de Madame Michu
+Mission : nous devons depanner le PC de Madame Michu 
 
 # 1) Part 1 :Reparer le demarrage de Windows : 
 On constate un probleme au demarrage "bootmgr" , je prepare mon iso et je le met dans mon Lecteur Optique: 
